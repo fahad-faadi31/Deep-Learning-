@@ -1,0 +1,5 @@
+ReLu(Rectified linear unit)-> used in hidden layers for non linearity while keeping computation efficient
+
+sigmoid->used in binary classification
+softmax->for multiclass classification
+TanH-> similar to sigmoid but better gradient properties

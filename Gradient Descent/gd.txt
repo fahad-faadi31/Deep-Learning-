@@ -1,0 +1,3 @@
+Batch Gradient Descent(uses entire dataset to update weights)
+Stochastic Gradient Descent(Uses one data point at a time)
+Mini-Batch Gradient Descent(Uses small batch of Data)

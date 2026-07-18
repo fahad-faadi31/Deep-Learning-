@@ -1,0 +1,6 @@
+MSE->Regression
+MAE->Regression
+Huber->combination of MSE and MAE
+Hinge->Used for SVMs
+Binary Cross Entropy(BCE) aks (Log Loss)->Binary classification
+Cross Entropy loss->Multi-class Classification
